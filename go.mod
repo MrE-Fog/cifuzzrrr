@@ -15,7 +15,7 @@ require (
 	github.com/otiai10/copy v1.9.0
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/pkg/errors v0.9.1
-	github.com/pterm/pterm v0.12.50
+	github.com/pterm/pterm v0.12.53
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
 	golang.org/x/sync v0.1.0
@@ -62,7 +62,7 @@ require (
 	github.com/subosito/gotenv v1.4.1 // indirect
 	golang.org/x/exp v0.0.0-20220414153411-bcd21879b8fd
 	golang.org/x/sys v0.0.0-20220915200043-7b5979e65e41
-	golang.org/x/text v0.5.0
+	golang.org/x/text v0.6.0
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1
