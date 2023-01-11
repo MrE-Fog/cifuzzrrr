@@ -3,7 +3,7 @@ module code-intelligence.com/cifuzz
 go 1.18
 
 require (
-	atomicgo.dev/keyboard v0.2.8
+	atomicgo.dev/keyboard v0.2.9
 	github.com/Masterminds/semver v1.5.0
 	github.com/alexflint/go-filemutex v1.2.0
 	github.com/gen2brain/beeep v0.0.0-20220909211152-5a9ec94374f6
